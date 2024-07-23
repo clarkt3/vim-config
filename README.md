@@ -1,5 +1,7 @@
 # vim-config
 
+
+" vim: syntax=vim
 https://github.com/clarkt3/vim-config.git
 
 " Enable syntax highlighting and file type detection
