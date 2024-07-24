@@ -29,11 +29,10 @@ call plug#begin('~/.vim/plugged')
 
 " Declare the list of plugins
 Plug 'davidhalter/jedi-vim' " Python autocompletion
-
-"Layer these additional setting on later after learning python
-" Initialize plugin system
-" call plug#end()
-" Enable jedi-vim for Python autocompletion
+  "Layer these additional setting on later after learning python
+  " Initialize plugin system
+  " call plug#end()
+  " Enable jedi-vim for Python autocompletion
 " let g:jedi#completions_enabled = 1
 " Additional settings to enhance autocompletion
 " let g:jedi#completions_command = "<C-Space>"
