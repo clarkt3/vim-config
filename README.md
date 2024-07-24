@@ -3,7 +3,10 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => General
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
- syntax on
+
+
+
+syntax on
  " filetype plugin indent on
  " Set Line Number
   set nonumber
